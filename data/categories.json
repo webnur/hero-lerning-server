@@ -1,0 +1,27 @@
+[
+    {
+        "id": "01",
+        "name": "HTML And Css"
+    },
+    {
+        "id": "02",
+        "name":"Javascript"
+    },
+    {
+        "id": "03",
+        "name":"React js"
+    },
+    {
+        "id": "04",
+        "name":"Node Js"
+    },
+    {
+        "id": "05",
+        "name":"python"
+    },
+    {
+        "id": "06",
+        "name":"Learn c++"
+        
+    }
+    ]
