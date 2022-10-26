@@ -1,0 +1,62 @@
+[
+    {
+        "id": "101",
+        "name": "learn HTML and Css",
+        "description": "This course breaks the fundamentals of HTML and  CSS into digestible, easy-to-understand pieces. Over the next few modules, you'll learn how the core aspects of HTML and  CSS work and how to use them effectively in your projects. Use the menu pane by the Learn CSS logo to navigate the modules.You'll learn CSS fundamentals like the box model, cascade and specificity, flexbox, grid, and z-index. And, along with these fundamentals, you'll learn about functions, color types, gradients, logical properties, and inheritance to make you a well-rounded front-end developer, ready to take on any user interface",
+        "price": "$320",
+        "duration": "6 Month",
+        "category_id": "01",
+        "published_date": "2022-10-12 4:50:00",
+        "photo": "https://www.sololearn.com/Uploads/html-css.jpg"
+    },
+    {
+        "id": "102",
+        "name": "Learn Javascript for web development",
+        "description": "JavaScript decorators have finally reached stage 3! Their latest version is already supported by Babel and will soon be supported by TypeScript.This blog post covers the 2022-03 version (stage 3) of the ECMAScript proposal “Decorators” by Daniel Ehrenberg and Chris Garrett. A decorator is a keyword that starts with an @ symbol and can be put in front of classes and class members (such as methods). For example, @trace is a decorator:",
+        "price": "$60",
+        "duration": "4 Month",
+        "category_id": "02",
+        "published_date": "2022-10-12 4:50:00",
+        "photo": "https://www.creative-tim.com/blog/content/images/wordpress/2020/10/The-Complete-Guide-to-Modern-JavaScript--1024x512.png"
+    },
+    {
+        "id": "103",
+        "name": "Learn React js",
+        "description": "Play Edureka course Preview VideoView Course Preview Video Free JavaScript Course. Edurekas React Certification Training will train you to build efficient React applications by mastering the concepts of React, Redux, and React Native. In this React Course, you will learn how to build simple components & integrate them into more complex design components. After completing this React online training, you will be able to build the applications using React concepts such as JSX, Redux, Asynchronous Programming using Redux-Saga middleware, Fetch data using GraphQL, perform Testing using Jest, successively Deploy applications using Nginx and Docker, plus build Mobile applications using React Native",
+        "price": "$60",
+        "duration": "4 Month",
+        "category_id": "03",
+        "published_date": "2022-10-12 4:50:00",
+        "photo": "https://miro.medium.com/proxy/1*h5UGPzaL1E4dIy_JWDrsAw.png"
+    },
+    {
+        "id": "104",
+        "name": "Learn Node Js for Backed Development",
+        "description": "In this tutorial we are going to build a blog powered by Node.js on the back end, Bootstrap on the front end, and MongoDB as the data store. We are going to start from scratch and build out the project one step at a time. We’ll see how to include all the packages we’ll need into Node for building the blog. Some of these include Express, Bcrypt, nodemon, express-edge, mongoose, body-parser, express-fileupload, and express-session. We’ll start with basic routes in the index.js file, and then gradually move the application into a Model View Controller architecture. Let’s get started.",
+        "price": "$60",
+        "duration": "5 Month",
+        "category_id": "04",
+        "published_date": "2022-10-12 4:50:00",
+        "photo": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200918183825/Best-Way-to-Learn-NodeJS-A-Complete-Roadmap.png"
+    },
+    {
+        "id": "105",
+        "name": "Learn python programming",
+        "description": "Python is powerful yet easy to read, making it highly applicable at major tech companies and a great first language to learn. Plus, you can learn this language on your schedule from any device. With Codecademy Pro, you’ll build a portfolio of work to showcase your skills when opportunity comes knocking.",
+        "price": "$70",
+        "duration": "5 Month",
+        "category_id": "05",
+        "published_date": "2022-10-12 4:50:00",
+        "photo": "https://365datascience.com/resources/blog/2019-10-python-everything-you-should-know-1024x576.jpg"
+    },
+    {
+        "id": "106",
+        "name": "Learn c++ for competitive programming",
+        "description": "Although there are numerous programming languages available in the market to work upon, but C++ has never lost its charm since its inception and still has a strong impact in the development world. As per the reports, C++ comes under a few top programming languages across the world. Alike the C programming language, C++ also makes it easier for you to understand the underlying architecture of programming, although it also supports other additional features such as object-oriented programming, exception handling, etc. Moreover, various IT giants Google, Amazon, Microsoft, etc. offer numerous career opportunities to C++ professionals, hence you’re strongly recommended to give it a try and start to learn C++ Programming. ",
+        "price": "$80",
+        "duration": "5 Month",
+        "category_id": "06",
+        "published_date": "2022-10-12 4:50:00",
+        "photo": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png"
+    }
+]
