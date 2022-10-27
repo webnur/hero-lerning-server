@@ -9,7 +9,6 @@ app.use(cors());
 const categories = require('./data/categories.json');
 const data = require('./data/data.json');
 
-
 app.get('/', (req, res) => {
     res.send('server side is Running')
 });
@@ -18,19 +17,11 @@ app.get('/categories', (req, res) => {
     res.send(categories)
 })
 
-// app.get('/category:/id', (req, res) => {
-//     const id = req.params.id;
-//     const categoryId = data.filter(c => c.category_id == id);
-//     res.send(categoryId)
-// })
-
-
 app.get('/category/:id', (req, res)=>{
     const id = req.params.id;
     const category = data.filter(c => c.category_id == id)
     res.send(category)
 })
-
 
 app.get('/courseDetails/:id',(req, res)=>{
     const id = req.params.id;
